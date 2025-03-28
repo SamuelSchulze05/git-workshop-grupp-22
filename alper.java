@@ -8,9 +8,11 @@ public class alper {
 
     public String food(){
         System.out.println("Dolma");
+        return "";
     }
 
-    public String drink(){
+    public static String drink(){
         System.out.println("Vatten");
+        return "";
     }
 }
