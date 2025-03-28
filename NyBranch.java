@@ -6,7 +6,7 @@ public class NyBranch {
 
         if (fråga.equals("dricka")) {
             String vems = JOptionPane.showInputDialog("Vems?");
-            if (vems.equals("Alper")){
+            if (vems.equals("Josef")){
                 Alper.drink();
             }
         }
