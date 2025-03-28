@@ -1,6 +1,16 @@
 public class Samuel {
-    public static void main(String[] args)
+    public void Samuel()
     {
-        System.out.println("hejsan svejsan");
+        System.out.println("Samuel");
+    }
+
+    public void SamuelFood()
+    {
+        System.out.println("Samuels favorit mat är kött");
+    }
+
+    public void SamuelDrink()
+    {
+        System.out.println("Samuels favorit drink är pepsi");
     }
 }
