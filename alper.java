@@ -11,7 +11,7 @@ public class alper {
         return "";
     }
 
-    public String drink(){
+    public static String drink(){
         System.out.println("Vatten");
         return "";
     }
