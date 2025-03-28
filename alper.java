@@ -5,4 +5,12 @@ public class alper {
         String name = JOptionPane.showInputDialog("Vad heter du?");
         JOptionPane.showMessageDialog(null, "Hej " + name + "!");
     }
+
+    public String food(){
+        System.out.println("Dolma");
+    }
+
+    public String drink(){
+        System.out.println("Vatten");
+    }
 }
